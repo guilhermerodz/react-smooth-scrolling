@@ -2,6 +2,10 @@
 
 [Live preview here](https://react-smooth-scrolling.netlify.app/)
 
+## Installation
+
+Run `yarn add react-smooth-scrolling` or `npm install react-smooth-scrolling`
+
 ## Introduction
 
 This is a React Provider Component which wraps your entire application body and add _smooth scrolling_ effect to it.
