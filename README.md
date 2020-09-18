@@ -14,7 +14,7 @@ import { SmoothProvider } from 'react-smooth-scrolling'
 function App() {
   return (
     <SmoothProvider skew={true}>
-      <MyCustomPage>
+      <MyCustomPage />
     </SmoothProvider>
   )
 }
